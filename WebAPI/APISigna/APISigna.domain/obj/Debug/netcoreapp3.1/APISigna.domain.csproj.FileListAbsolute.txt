@@ -1,0 +1,9 @@
+D:\Eu\TESTE SIGNA\WebAPI\APISigna\APISigna.domain\bin\Debug\netcoreapp3.1\APISigna.domain.deps.json
+D:\Eu\TESTE SIGNA\WebAPI\APISigna\APISigna.domain\bin\Debug\netcoreapp3.1\APISigna.domain.dll
+D:\Eu\TESTE SIGNA\WebAPI\APISigna\APISigna.domain\bin\Debug\netcoreapp3.1\APISigna.domain.pdb
+D:\Eu\TESTE SIGNA\WebAPI\APISigna\APISigna.domain\obj\Debug\netcoreapp3.1\APISigna.domain.csprojAssemblyReference.cache
+D:\Eu\TESTE SIGNA\WebAPI\APISigna\APISigna.domain\obj\Debug\netcoreapp3.1\APISigna.domain.AssemblyInfoInputs.cache
+D:\Eu\TESTE SIGNA\WebAPI\APISigna\APISigna.domain\obj\Debug\netcoreapp3.1\APISigna.domain.AssemblyInfo.cs
+D:\Eu\TESTE SIGNA\WebAPI\APISigna\APISigna.domain\obj\Debug\netcoreapp3.1\APISigna.domain.csproj.CoreCompileInputs.cache
+D:\Eu\TESTE SIGNA\WebAPI\APISigna\APISigna.domain\obj\Debug\netcoreapp3.1\APISigna.domain.dll
+D:\Eu\TESTE SIGNA\WebAPI\APISigna\APISigna.domain\obj\Debug\netcoreapp3.1\APISigna.domain.pdb
